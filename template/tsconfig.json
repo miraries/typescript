@@ -56,5 +56,5 @@
         /* Advanced Options */
         "skipLibCheck": true                      /* Skip type checking of declaration files. */
     },
-    "include": ["src/**/*.tsx", "src/**/*.ts"]
+    "include": ["src/**/*", "tests/**/*"]
 }
